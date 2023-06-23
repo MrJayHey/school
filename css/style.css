@@ -1,0 +1,159 @@
+.outline-dark:hover{
+    background-color: #141414;
+    color: #ffffff;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(to right, rgb(120, 120, 245), rgb(104, 195, 236));
+}
+footer{
+    background-color: #141414;
+    width: 100vw;
+}​
+.outline-dark{
+    border-radius: 10px;
+}
+.text-body-secondary{
+    color: white;
+}
+.p{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+
+.user-form{
+    width: 300px;
+}
+form{
+    width: 500px;
+    align-self: center;
+}
+.my-li{
+    padding-left: 20px;
+}
+.my-4{
+    position: fixed;
+    bottom:-24px;
+    padding: 50px;
+    margin-bottom: 0px;
+}
+/* .page-footer{
+    width: 500px;
+}
+.page-footer.fixed-bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+  } */
+  table {
+    border-spacing: 0 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    }
+    th {
+    padding: 10px 20px;
+    background: #56433D;
+    color: #F9C941;
+    border-right: 2px solid; 
+    font-size: 0.9em;
+    }
+    th:first-child {
+    text-align: left;
+    }
+    th:last-child {
+    border-right: none;
+    }
+    td {
+    vertical-align: middle;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+    border-top: 2px solid #56433D;
+    border-bottom: 2px solid #56433D;
+    border-right: 2px solid #56433D;
+    }
+    td:first-child {
+    border-left: 2px solid #56433D;
+    border-right: none;
+    }
+    td:nth-child(2){
+    text-align: left;
+    }
+    table {
+        font-family:  Sans-Serif;
+        font-size: 17px;
+        border-collapse: collapse;
+        text-align: center;
+        border-radius: 10px;
+        }
+        th, td:first-child {
+        background: #AFCDE7;
+        color: white;
+        padding: 10px 20px;
+        }
+        th, td {
+        border-style: solid;
+        border-width: 0 1px 1px 0;
+        border-color: white;
+        }
+        td {
+        background: #D8E6F3;
+        }
+        th:first-child, td:first-child {
+        text-align: left;
+        }
+#ticker {
+    margin-left: auto;
+    margin-right: auto;
+            font-size: 25px;
+            width:900px;
+          }
+          
+          #ticker dt {
+            font:normal 14px Georgia;
+            font-size: 25px;
+            background-color:#2078ca;
+            border-bottom: 5px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+          }
+          #ticker dd {
+            margin-left:0;
+            font-size: 25px;
+            
+          }
+          .zag{
+            font-size: 40px;
+            text-align: center;
+            align-self: center;
+          }
+          .date{
+            border-bottom:3px solid #313ac4;
+          }
+          button {
+            border-radius: 5px;
+}
+.border{
+            border-radius: 5px;
+}
+.add{
+    background-color: #ffffff;
+    text-decoration: none;
+    padding: 5px;
+}
+.textu{
+    font-size: 30px;
+    width: 120px;
+}
+.formi{
+    width: 500px;
+}
+.textu2{
+    font-size: 30px;
+    width: 140px;
+}
+          
